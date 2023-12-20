@@ -1,0 +1,1866 @@
+# depslib dependency file v1.0
+1606316151 source:c:\users\thiba\onedrive - groupe inseec (poce)\tibo ece\informatique c++\projetv3\carte.cpp
+	<iostream>
+	<string>
+	"Carte.h"
+
+1606316151 c:\users\thiba\onedrive - groupe inseec (poce)\tibo ece\informatique c++\projetv3\carte.h
+	<string>
+
+1606316151 source:c:\users\thiba\onedrive - groupe inseec (poce)\tibo ece\informatique c++\projetv3\creature.cpp
+	"Creature.h"
+	"Carte.h"
+
+1606316151 c:\users\thiba\onedrive - groupe inseec (poce)\tibo ece\informatique c++\projetv3\creature.h
+	"Carte.h"
+
+1606316151 source:c:\users\thiba\onedrive - groupe inseec (poce)\tibo ece\informatique c++\projetv3\energie.cpp
+	"Energie.h"
+	"Carte.h"
+
+1606316151 c:\users\thiba\onedrive - groupe inseec (poce)\tibo ece\informatique c++\projetv3\energie.h
+	"Carte.h"
+	<vector>
+
+1606316151 source:c:\users\thiba\onedrive - groupe inseec (poce)\tibo ece\informatique c++\projetv3\special.cpp
+	"Special.h"
+	"Carte.h"
+
+1606316151 c:\users\thiba\onedrive - groupe inseec (poce)\tibo ece\informatique c++\projetv3\special.h
+	"Carte.h"
+
+1606318977 source:c:\users\thiba\onedrive - groupe inseec (poce)\tibo ece\informatique c++\projetv3\affichage.cpp
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	<time.h>
+	<iostream>
+	"Affichage.h"
+	"Hero.h"
+	"Carte.h"
+
+1606318836 c:\users\thiba\onedrive - groupe inseec (poce)\tibo ece\informatique c++\projetv3\affichage.h
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	<time.h>
+	<iostream>
+	"Carte.h"
+	"Hero.h"
+
+1606316297 c:\users\thiba\onedrive - groupe inseec (poce)\tibo ece\informatique c++\projetv3\hero.h
+	"Deck.h"
+	"Carte.h"
+	<string>
+	<vector>
+	<stack>
+	<queue>
+
+1606316017 c:\users\thiba\onedrive - groupe inseec (poce)\tibo ece\informatique c++\projetv3\deck.h
+
+1606316151 source:c:\users\thiba\onedrive - groupe inseec (poce)\tibo ece\informatique c++\projetv3\main.cpp
+	<iostream>
+	<vector>
+	<time.h>
+	"Carte.h"
+	"Creature.h"
+	"Deck.h"
+	"Energie.h"
+	"Hero.h"
+	"Special.h"
+	"Affichage.h"
+
+1606316151 source:c:\users\thiba\onedrive - groupe inseec (poce)\tibo ece\informatique c++\projetv3\hero.cpp
+	"Hero.h"
+	"Carte.h"
+	"Affichage.h"
+	<iostream>
+	<time.h>
+	<unistd.h>
+
+1606424440 source:d:\programation ecole\ing2info\projetv3 - copie\affichage.cpp
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	<time.h>
+	<iostream>
+	"Affichage.h"
+	"Hero.h"
+	"Carte.h"
+
+1606318838 d:\programation ecole\ing2info\projetv3 - copie\affichage.h
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	<time.h>
+	<iostream>
+	"Carte.h"
+	"Hero.h"
+
+1606476525 d:\programation ecole\ing2info\projetv3 - copie\carte.h
+	<string>
+	<iostream>
+
+1606421304 d:\programation ecole\ing2info\projetv3 - copie\hero.h
+	"Deck.h"
+	"Carte.h"
+	<string>
+	<vector>
+	<stack>
+	<queue>
+	<iostream>
+
+1606316018 d:\programation ecole\ing2info\projetv3 - copie\deck.h
+
+1606476793 source:d:\programation ecole\ing2info\projetv3 - copie\carte.cpp
+	<iostream>
+	<string>
+	"Carte.h"
+
+1606476819 source:d:\programation ecole\ing2info\projetv3 - copie\creature.cpp
+	"Creature.h"
+	"Carte.h"
+
+1606421775 d:\programation ecole\ing2info\projetv3 - copie\creature.h
+	"Carte.h"
+
+1606475077 source:d:\programation ecole\ing2info\projetv3 - copie\energie.cpp
+	"Energie.h"
+
+1606421761 d:\programation ecole\ing2info\projetv3 - copie\energie.h
+	"Carte.h"
+	<vector>
+
+1606479666 source:d:\programation ecole\ing2info\projetv3 - copie\hero.cpp
+	"Hero.h"
+	"Special.h"
+	"Creature.h"
+	"Energie.h"
+	"Affichage.h"
+	<iostream>
+	<time.h>
+	<unistd.h>
+
+1606479544 source:d:\programation ecole\ing2info\projetv3 - copie\main.cpp
+	<iostream>
+	<vector>
+	<time.h>
+	"Carte.h"
+	"Creature.h"
+	"Deck.h"
+	"Energie.h"
+	"Hero.h"
+	"Special.h"
+	"Affichage.h"
+	<fstream>
+
+1606421768 d:\programation ecole\ing2info\projetv3 - copie\special.h
+	"Carte.h"
+
+1606476878 source:d:\programation ecole\ing2info\projetv3 - copie\special.cpp
+	"Special.h"
+
+1606482812 source:c:\users\thiba\downloads\projetv3_avec_sauvegarde\projetv3 avec sauvegarde\affichage.cpp
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	<time.h>
+	<iostream>
+	"Affichage.h"
+	"Hero.h"
+	"Carte.h"
+
+1606480696 c:\users\thiba\downloads\projetv3_avec_sauvegarde\projetv3 avec sauvegarde\affichage.h
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	<time.h>
+	<iostream>
+	"Carte.h"
+	"Hero.h"
+
+1606480641 c:\users\thiba\downloads\projetv3_avec_sauvegarde\projetv3 avec sauvegarde\carte.h
+	<string>
+	<iostream>
+
+1606480641 c:\users\thiba\downloads\projetv3_avec_sauvegarde\projetv3 avec sauvegarde\hero.h
+	"Deck.h"
+	"Carte.h"
+	<string>
+	<vector>
+	<stack>
+	<queue>
+	<iostream>
+
+1606480641 c:\users\thiba\downloads\projetv3_avec_sauvegarde\projetv3 avec sauvegarde\deck.h
+
+1606480641 source:c:\users\thiba\downloads\projetv3_avec_sauvegarde\projetv3 avec sauvegarde\carte.cpp
+	<iostream>
+	<string>
+	"Carte.h"
+
+1606480641 source:c:\users\thiba\downloads\projetv3_avec_sauvegarde\projetv3 avec sauvegarde\creature.cpp
+	"Creature.h"
+	"Carte.h"
+
+1606480641 c:\users\thiba\downloads\projetv3_avec_sauvegarde\projetv3 avec sauvegarde\creature.h
+	"Carte.h"
+
+1606480641 source:c:\users\thiba\downloads\projetv3_avec_sauvegarde\projetv3 avec sauvegarde\energie.cpp
+	"Energie.h"
+
+1606480641 c:\users\thiba\downloads\projetv3_avec_sauvegarde\projetv3 avec sauvegarde\energie.h
+	"Carte.h"
+	<vector>
+
+1606482569 source:c:\users\thiba\downloads\projetv3_avec_sauvegarde\projetv3 avec sauvegarde\hero.cpp
+	"Hero.h"
+	"Special.h"
+	"Creature.h"
+	"Energie.h"
+	"Affichage.h"
+	<iostream>
+	<time.h>
+	<unistd.h>
+
+1606480641 c:\users\thiba\downloads\projetv3_avec_sauvegarde\projetv3 avec sauvegarde\special.h
+	"Carte.h"
+
+1606482996 source:c:\users\thiba\downloads\projetv3_avec_sauvegarde\projetv3 avec sauvegarde\main.cpp
+	<iostream>
+	<vector>
+	<time.h>
+	"Carte.h"
+	"Creature.h"
+	"Deck.h"
+	"Energie.h"
+	"Hero.h"
+	"Special.h"
+	"Affichage.h"
+	<fstream>
+
+1606480641 source:c:\users\thiba\downloads\projetv3_avec_sauvegarde\projetv3 avec sauvegarde\special.cpp
+	"Special.h"
+
+1606480642 source:d:\users\louis\desktop\projet ing2 - 4\projetv4\projetv3 avec sauvegarde\carte.cpp
+	<iostream>
+	<string>
+	"Carte.h"
+
+1606480642 d:\users\louis\desktop\projet ing2 - 4\projetv4\projetv3 avec sauvegarde\carte.h
+	<string>
+	<iostream>
+
+1606480642 source:d:\users\louis\desktop\projet ing2 - 4\projetv4\projetv3 avec sauvegarde\creature.cpp
+	"Creature.h"
+	"Carte.h"
+
+1606480642 d:\users\louis\desktop\projet ing2 - 4\projetv4\projetv3 avec sauvegarde\creature.h
+	"Carte.h"
+
+1606480642 source:d:\users\louis\desktop\projet ing2 - 4\projetv4\projetv3 avec sauvegarde\energie.cpp
+	"Energie.h"
+
+1606480642 d:\users\louis\desktop\projet ing2 - 4\projetv4\projetv3 avec sauvegarde\energie.h
+	"Carte.h"
+	<vector>
+
+1606482570 source:d:\users\louis\desktop\projet ing2 - 4\projetv4\projetv3 avec sauvegarde\hero.cpp
+	"Hero.h"
+	"Special.h"
+	"Creature.h"
+	"Energie.h"
+	"Affichage.h"
+	<iostream>
+	<time.h>
+	<unistd.h>
+
+1606480642 d:\users\louis\desktop\projet ing2 - 4\projetv4\projetv3 avec sauvegarde\hero.h
+	"Deck.h"
+	"Carte.h"
+	<string>
+	<vector>
+	<stack>
+	<queue>
+	<iostream>
+
+1606480642 d:\users\louis\desktop\projet ing2 - 4\projetv4\projetv3 avec sauvegarde\deck.h
+
+1606480642 d:\users\louis\desktop\projet ing2 - 4\projetv4\projetv3 avec sauvegarde\special.h
+	"Carte.h"
+
+1606480698 d:\users\louis\desktop\projet ing2 - 4\projetv4\projetv3 avec sauvegarde\affichage.h
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	<time.h>
+	<iostream>
+	"Carte.h"
+	"Hero.h"
+
+1606480642 source:d:\users\louis\desktop\projet ing2 - 4\projetv4\projetv3 avec sauvegarde\special.cpp
+	"Special.h"
+
+1606487088 source:d:\users\louis\desktop\projet ing2 - 4\projetv4\projetv3 avec sauvegarde\affichage.cpp
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	<time.h>
+	<iostream>
+	"Affichage.h"
+	"Hero.h"
+	"Carte.h"
+
+1606487088 source:d:\users\louis\desktop\projet ing2 - 4\projetv4\projetv3 avec sauvegarde\main.cpp
+	<iostream>
+	<vector>
+	<time.h>
+	"Carte.h"
+	"Creature.h"
+	"Deck.h"
+	"Energie.h"
+	"Hero.h"
+	"Special.h"
+	"Affichage.h"
+	<fstream>
+
+1606487088 source:d:\users\louis\desktop\projet ing2 - 4\projetv4.1\projetv3 avec sauvegarde\affichage.cpp
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	<time.h>
+	<iostream>
+	"Affichage.h"
+	"Hero.h"
+	"Carte.h"
+
+1606480698 d:\users\louis\desktop\projet ing2 - 4\projetv4.1\projetv3 avec sauvegarde\affichage.h
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	<time.h>
+	<iostream>
+	"Carte.h"
+	"Hero.h"
+
+1606480642 d:\users\louis\desktop\projet ing2 - 4\projetv4.1\projetv3 avec sauvegarde\carte.h
+	<string>
+	<iostream>
+
+1606480642 d:\users\louis\desktop\projet ing2 - 4\projetv4.1\projetv3 avec sauvegarde\hero.h
+	"Deck.h"
+	"Carte.h"
+	<string>
+	<vector>
+	<stack>
+	<queue>
+	<iostream>
+
+1606480642 d:\users\louis\desktop\projet ing2 - 4\projetv4.1\projetv3 avec sauvegarde\deck.h
+
+1606480642 source:d:\users\louis\desktop\projet ing2 - 4\projetv4.1\projetv3 avec sauvegarde\carte.cpp
+	<iostream>
+	<string>
+	"Carte.h"
+
+1606480642 source:d:\users\louis\desktop\projet ing2 - 4\projetv4.1\projetv3 avec sauvegarde\creature.cpp
+	"Creature.h"
+	"Carte.h"
+
+1606480642 d:\users\louis\desktop\projet ing2 - 4\projetv4.1\projetv3 avec sauvegarde\creature.h
+	"Carte.h"
+
+1606480642 source:d:\users\louis\desktop\projet ing2 - 4\projetv4.1\projetv3 avec sauvegarde\energie.cpp
+	"Energie.h"
+
+1606480642 d:\users\louis\desktop\projet ing2 - 4\projetv4.1\projetv3 avec sauvegarde\energie.h
+	"Carte.h"
+	<vector>
+
+1606495266 source:d:\users\louis\desktop\projet ing2 - 4\projetv4.1\projetv3 avec sauvegarde\hero.cpp
+	"Hero.h"
+	"Special.h"
+	"Creature.h"
+	"Energie.h"
+	"Affichage.h"
+	<iostream>
+	<time.h>
+	<unistd.h>
+
+1606480642 d:\users\louis\desktop\projet ing2 - 4\projetv4.1\projetv3 avec sauvegarde\special.h
+	"Carte.h"
+
+1606495447 source:d:\users\louis\desktop\projet ing2 - 4\projetv4.1\projetv3 avec sauvegarde\main.cpp
+	<iostream>
+	<vector>
+	<time.h>
+	"Carte.h"
+	"Creature.h"
+	"Deck.h"
+	"Energie.h"
+	"Hero.h"
+	"Special.h"
+	"Affichage.h"
+	<fstream>
+
+1606480642 source:d:\users\louis\desktop\projet ing2 - 4\projetv4.1\projetv3 avec sauvegarde\special.cpp
+	"Special.h"
+
+1606497337 source:c:\users\thiba\downloads\projetv4.2\projetv4.2\projetv3 avec sauvegarde\affichage.cpp
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	<time.h>
+	<iostream>
+	"Affichage.h"
+	"Hero.h"
+	"Carte.h"
+
+1606497337 c:\users\thiba\downloads\projetv4.2\projetv4.2\projetv3 avec sauvegarde\affichage.h
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	<time.h>
+	<iostream>
+	"Carte.h"
+	"Hero.h"
+
+1606497337 c:\users\thiba\downloads\projetv4.2\projetv4.2\projetv3 avec sauvegarde\carte.h
+	<string>
+	<iostream>
+
+1606497337 c:\users\thiba\downloads\projetv4.2\projetv4.2\projetv3 avec sauvegarde\hero.h
+	"Deck.h"
+	"Carte.h"
+	<string>
+	<vector>
+	<stack>
+	<queue>
+	<iostream>
+
+1606497337 c:\users\thiba\downloads\projetv4.2\projetv4.2\projetv3 avec sauvegarde\deck.h
+
+1606497337 source:c:\users\thiba\downloads\projetv4.2\projetv4.2\projetv3 avec sauvegarde\carte.cpp
+	<iostream>
+	<string>
+	"Carte.h"
+
+1606497337 source:c:\users\thiba\downloads\projetv4.2\projetv4.2\projetv3 avec sauvegarde\creature.cpp
+	"Creature.h"
+	"Carte.h"
+
+1606497337 c:\users\thiba\downloads\projetv4.2\projetv4.2\projetv3 avec sauvegarde\creature.h
+	"Carte.h"
+
+1606497337 source:c:\users\thiba\downloads\projetv4.2\projetv4.2\projetv3 avec sauvegarde\energie.cpp
+	"Energie.h"
+
+1606497337 c:\users\thiba\downloads\projetv4.2\projetv4.2\projetv3 avec sauvegarde\energie.h
+	"Carte.h"
+	<vector>
+
+1606497337 source:c:\users\thiba\downloads\projetv4.2\projetv4.2\projetv3 avec sauvegarde\hero.cpp
+	"Hero.h"
+	"Special.h"
+	"Creature.h"
+	"Energie.h"
+	"Affichage.h"
+	<iostream>
+	<time.h>
+	<unistd.h>
+
+1606497337 c:\users\thiba\downloads\projetv4.2\projetv4.2\projetv3 avec sauvegarde\special.h
+	"Carte.h"
+
+1606497337 source:c:\users\thiba\downloads\projetv4.2\projetv4.2\projetv3 avec sauvegarde\main.cpp
+	<iostream>
+	<vector>
+	<time.h>
+	"Carte.h"
+	"Creature.h"
+	"Deck.h"
+	"Energie.h"
+	"Hero.h"
+	"Special.h"
+	"Affichage.h"
+	<fstream>
+
+1606497337 source:c:\users\thiba\downloads\projetv4.2\projetv4.2\projetv3 avec sauvegarde\special.cpp
+	"Special.h"
+
+1606914760 source:c:\users\thiba\onedrive - groupe inseec (poce)\tibo ece\projet informatique c++\projetv4.2\projetv4.2\projetv3 avec sauvegarde\affichage.cpp
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	<time.h>
+	<iostream>
+	"Affichage.h"
+	"Hero.h"
+	"Carte.h"
+
+1606497337 c:\users\thiba\onedrive - groupe inseec (poce)\tibo ece\projet informatique c++\projetv4.2\projetv4.2\projetv3 avec sauvegarde\affichage.h
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	<time.h>
+	<iostream>
+	"Carte.h"
+	"Hero.h"
+
+1606601932 c:\users\thiba\onedrive - groupe inseec (poce)\tibo ece\projet informatique c++\projetv4.2\projetv4.2\projetv3 avec sauvegarde\carte.h
+	<string>
+	<iostream>
+
+1606914681 c:\users\thiba\onedrive - groupe inseec (poce)\tibo ece\projet informatique c++\projetv4.2\projetv4.2\projetv3 avec sauvegarde\hero.h
+	"Deck.h"
+	"Carte.h"
+	"Creature.h"
+	<string>
+	<vector>
+	<stack>
+	<queue>
+	<iostream>
+
+1606497337 c:\users\thiba\onedrive - groupe inseec (poce)\tibo ece\projet informatique c++\projetv4.2\projetv4.2\projetv3 avec sauvegarde\deck.h
+
+1606912729 source:c:\users\thiba\onedrive - groupe inseec (poce)\tibo ece\projet informatique c++\projetv4.2\projetv4.2\projetv3 avec sauvegarde\carte.cpp
+	<iostream>
+	<string>
+	"Carte.h"
+
+1606601981 source:c:\users\thiba\onedrive - groupe inseec (poce)\tibo ece\projet informatique c++\projetv4.2\projetv4.2\projetv3 avec sauvegarde\creature.cpp
+	"Creature.h"
+	"Carte.h"
+
+1606772847 c:\users\thiba\onedrive - groupe inseec (poce)\tibo ece\projet informatique c++\projetv4.2\projetv4.2\projetv3 avec sauvegarde\creature.h
+	"Carte.h"
+
+1606601932 source:c:\users\thiba\onedrive - groupe inseec (poce)\tibo ece\projet informatique c++\projetv4.2\projetv4.2\projetv3 avec sauvegarde\energie.cpp
+	"Energie.h"
+
+1606601932 c:\users\thiba\onedrive - groupe inseec (poce)\tibo ece\projet informatique c++\projetv4.2\projetv4.2\projetv3 avec sauvegarde\energie.h
+	"Carte.h"
+	<vector>
+
+1606914700 source:c:\users\thiba\onedrive - groupe inseec (poce)\tibo ece\projet informatique c++\projetv4.2\projetv4.2\projetv3 avec sauvegarde\hero.cpp
+	"Hero.h"
+	"Special.h"
+	"Creature.h"
+	"Energie.h"
+	"Affichage.h"
+	<iostream>
+	<time.h>
+	<unistd.h>
+	<random>
+	<algorithm>
+	<iterator>
+
+1606601932 c:\users\thiba\onedrive - groupe inseec (poce)\tibo ece\projet informatique c++\projetv4.2\projetv4.2\projetv3 avec sauvegarde\special.h
+	"Carte.h"
+
+1606912729 source:c:\users\thiba\onedrive - groupe inseec (poce)\tibo ece\projet informatique c++\projetv4.2\projetv4.2\projetv3 avec sauvegarde\main.cpp
+	<iostream>
+	<vector>
+	<time.h>
+	"Carte.h"
+	"Creature.h"
+	"Deck.h"
+	"Energie.h"
+	"Hero.h"
+	"Special.h"
+	"Affichage.h"
+	<fstream>
+
+1606601981 source:c:\users\thiba\onedrive - groupe inseec (poce)\tibo ece\projet informatique c++\projetv4.2\projetv4.2\projetv3 avec sauvegarde\special.cpp
+	"Special.h"
+
+1606922063 source:c:\users\romai\downloads\projetv9\projetv4.2\projetv4.2\projetv3 avec sauvegarde\carte.cpp
+	<iostream>
+	<string>
+	"Carte.h"
+
+1606922063 c:\users\romai\downloads\projetv9\projetv4.2\projetv4.2\projetv3 avec sauvegarde\carte.h
+	<string>
+	<iostream>
+
+1606922063 source:c:\users\romai\downloads\projetv9\projetv4.2\projetv4.2\projetv3 avec sauvegarde\creature.cpp
+	"Creature.h"
+	"Carte.h"
+
+1606922063 c:\users\romai\downloads\projetv9\projetv4.2\projetv4.2\projetv3 avec sauvegarde\creature.h
+	"Carte.h"
+
+1606922063 source:c:\users\romai\downloads\projetv9\projetv4.2\projetv4.2\projetv3 avec sauvegarde\energie.cpp
+	"Energie.h"
+
+1606922063 c:\users\romai\downloads\projetv9\projetv4.2\projetv4.2\projetv3 avec sauvegarde\energie.h
+	"Carte.h"
+	<vector>
+
+1606949034 source:c:\users\romai\downloads\projetv9\projetv4.2\projetv4.2\projetv3 avec sauvegarde\hero.cpp
+	"Hero.h"
+	"Special.h"
+	"Creature.h"
+	"Energie.h"
+	"Affichage.h"
+	<iostream>
+	<time.h>
+	<unistd.h>
+	<random>
+	<algorithm>
+	<iterator>
+
+1606924060 c:\users\romai\downloads\projetv9\projetv4.2\projetv4.2\projetv3 avec sauvegarde\hero.h
+	"Deck.h"
+	"Carte.h"
+	"Creature.h"
+	<string>
+	<vector>
+	<stack>
+	<queue>
+	<iostream>
+
+1606922063 c:\users\romai\downloads\projetv9\projetv4.2\projetv4.2\projetv3 avec sauvegarde\deck.h
+
+1606922063 c:\users\romai\downloads\projetv9\projetv4.2\projetv4.2\projetv3 avec sauvegarde\special.h
+	"Carte.h"
+
+1606922063 c:\users\romai\downloads\projetv9\projetv4.2\projetv4.2\projetv3 avec sauvegarde\affichage.h
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	<time.h>
+	<iostream>
+	"Carte.h"
+	"Hero.h"
+
+1606922063 source:c:\users\romai\downloads\projetv9\projetv4.2\projetv4.2\projetv3 avec sauvegarde\main.cpp
+	<iostream>
+	<vector>
+	<time.h>
+	"Carte.h"
+	"Creature.h"
+	"Deck.h"
+	"Energie.h"
+	"Hero.h"
+	"Special.h"
+	"Affichage.h"
+	<fstream>
+
+1606922063 source:c:\users\romai\downloads\projetv9\projetv4.2\projetv4.2\projetv3 avec sauvegarde\special.cpp
+	"Special.h"
+
+1606950756 source:c:\users\romai\downloads\projetv9\projetv4.2\projetv4.2\projetv3 avec sauvegarde\affichage.cpp
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	<time.h>
+	<iostream>
+	"Affichage.h"
+	"Hero.h"
+	"Carte.h"
+
+1606960604 source:c:\users\thiba\downloads\projetv9_2\projetv9\projetv4.2\projetv4.2\projetv3 avec sauvegarde\affichage.cpp
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	<time.h>
+	<iostream>
+	"Affichage.h"
+	"Hero.h"
+	"Carte.h"
+
+1606950926 c:\users\thiba\downloads\projetv9_2\projetv9\projetv4.2\projetv4.2\projetv3 avec sauvegarde\affichage.h
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	<time.h>
+	<iostream>
+	"Carte.h"
+	"Hero.h"
+
+1606950926 c:\users\thiba\downloads\projetv9_2\projetv9\projetv4.2\projetv4.2\projetv3 avec sauvegarde\carte.h
+	<string>
+	<iostream>
+
+1606959620 c:\users\thiba\downloads\projetv9_2\projetv9\projetv4.2\projetv4.2\projetv3 avec sauvegarde\hero.h
+	"Deck.h"
+	"Carte.h"
+	"Creature.h"
+	<string>
+	<vector>
+	<stack>
+	<queue>
+	<iostream>
+
+1606950926 c:\users\thiba\downloads\projetv9_2\projetv9\projetv4.2\projetv4.2\projetv3 avec sauvegarde\deck.h
+
+1606958256 c:\users\thiba\downloads\projetv9_2\projetv9\projetv4.2\projetv4.2\projetv3 avec sauvegarde\creature.h
+	"Carte.h"
+
+1606950926 source:c:\users\thiba\downloads\projetv9_2\projetv9\projetv4.2\projetv4.2\projetv3 avec sauvegarde\carte.cpp
+	<iostream>
+	<string>
+	"Carte.h"
+
+1606958256 source:c:\users\thiba\downloads\projetv9_2\projetv9\projetv4.2\projetv4.2\projetv3 avec sauvegarde\creature.cpp
+	"Creature.h"
+	"Carte.h"
+
+1606950926 source:c:\users\thiba\downloads\projetv9_2\projetv9\projetv4.2\projetv4.2\projetv3 avec sauvegarde\energie.cpp
+	"Energie.h"
+
+1606950926 c:\users\thiba\downloads\projetv9_2\projetv9\projetv4.2\projetv4.2\projetv3 avec sauvegarde\energie.h
+	"Carte.h"
+	<vector>
+
+1606959667 source:c:\users\thiba\downloads\projetv9_2\projetv9\projetv4.2\projetv4.2\projetv3 avec sauvegarde\hero.cpp
+	"Hero.h"
+	"Special.h"
+	"Creature.h"
+	"Energie.h"
+	"Affichage.h"
+	<iostream>
+	<time.h>
+	<unistd.h>
+	<random>
+	<algorithm>
+	<iterator>
+
+1606950926 c:\users\thiba\downloads\projetv9_2\projetv9\projetv4.2\projetv4.2\projetv3 avec sauvegarde\special.h
+	"Carte.h"
+
+1606957474 source:c:\users\thiba\downloads\projetv9_2\projetv9\projetv4.2\projetv4.2\projetv3 avec sauvegarde\main.cpp
+	<iostream>
+	<vector>
+	<time.h>
+	"Carte.h"
+	"Creature.h"
+	"Deck.h"
+	"Energie.h"
+	"Hero.h"
+	"Special.h"
+	"Affichage.h"
+	<fstream>
+
+1606950926 source:c:\users\thiba\downloads\projetv9_2\projetv9\projetv4.2\projetv4.2\projetv3 avec sauvegarde\special.cpp
+	"Special.h"
+
+1606960604 source:c:\users\thiba\onedrive - groupe inseec (poce)\tibo ece\projet informatique c++\projetv9_2\projetv9\projetv4.2\projetv4.2\projetv3 avec sauvegarde\affichage.cpp
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	<time.h>
+	<iostream>
+	"Affichage.h"
+	"Hero.h"
+	"Carte.h"
+
+1606950926 c:\users\thiba\onedrive - groupe inseec (poce)\tibo ece\projet informatique c++\projetv9_2\projetv9\projetv4.2\projetv4.2\projetv3 avec sauvegarde\affichage.h
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	<time.h>
+	<iostream>
+	"Carte.h"
+	"Hero.h"
+
+1606950926 c:\users\thiba\onedrive - groupe inseec (poce)\tibo ece\projet informatique c++\projetv9_2\projetv9\projetv4.2\projetv4.2\projetv3 avec sauvegarde\carte.h
+	<string>
+	<iostream>
+
+1606959620 c:\users\thiba\onedrive - groupe inseec (poce)\tibo ece\projet informatique c++\projetv9_2\projetv9\projetv4.2\projetv4.2\projetv3 avec sauvegarde\hero.h
+	"Deck.h"
+	"Carte.h"
+	"Creature.h"
+	<string>
+	<vector>
+	<stack>
+	<queue>
+	<iostream>
+
+1606950926 c:\users\thiba\onedrive - groupe inseec (poce)\tibo ece\projet informatique c++\projetv9_2\projetv9\projetv4.2\projetv4.2\projetv3 avec sauvegarde\deck.h
+
+1606958256 c:\users\thiba\onedrive - groupe inseec (poce)\tibo ece\projet informatique c++\projetv9_2\projetv9\projetv4.2\projetv4.2\projetv3 avec sauvegarde\creature.h
+	"Carte.h"
+
+1606950926 source:c:\users\thiba\onedrive - groupe inseec (poce)\tibo ece\projet informatique c++\projetv9_2\projetv9\projetv4.2\projetv4.2\projetv3 avec sauvegarde\carte.cpp
+	<iostream>
+	<string>
+	"Carte.h"
+
+1606958256 source:c:\users\thiba\onedrive - groupe inseec (poce)\tibo ece\projet informatique c++\projetv9_2\projetv9\projetv4.2\projetv4.2\projetv3 avec sauvegarde\creature.cpp
+	"Creature.h"
+	"Carte.h"
+
+1606950926 source:c:\users\thiba\onedrive - groupe inseec (poce)\tibo ece\projet informatique c++\projetv9_2\projetv9\projetv4.2\projetv4.2\projetv3 avec sauvegarde\energie.cpp
+	"Energie.h"
+
+1606950926 c:\users\thiba\onedrive - groupe inseec (poce)\tibo ece\projet informatique c++\projetv9_2\projetv9\projetv4.2\projetv4.2\projetv3 avec sauvegarde\energie.h
+	"Carte.h"
+	<vector>
+
+1606959667 source:c:\users\thiba\onedrive - groupe inseec (poce)\tibo ece\projet informatique c++\projetv9_2\projetv9\projetv4.2\projetv4.2\projetv3 avec sauvegarde\hero.cpp
+	"Hero.h"
+	"Special.h"
+	"Creature.h"
+	"Energie.h"
+	"Affichage.h"
+	<iostream>
+	<time.h>
+	<unistd.h>
+	<random>
+	<algorithm>
+	<iterator>
+
+1606950926 c:\users\thiba\onedrive - groupe inseec (poce)\tibo ece\projet informatique c++\projetv9_2\projetv9\projetv4.2\projetv4.2\projetv3 avec sauvegarde\special.h
+	"Carte.h"
+
+1606957474 source:c:\users\thiba\onedrive - groupe inseec (poce)\tibo ece\projet informatique c++\projetv9_2\projetv9\projetv4.2\projetv4.2\projetv3 avec sauvegarde\main.cpp
+	<iostream>
+	<vector>
+	<time.h>
+	"Carte.h"
+	"Creature.h"
+	"Deck.h"
+	"Energie.h"
+	"Hero.h"
+	"Special.h"
+	"Affichage.h"
+	<fstream>
+
+1606950926 source:c:\users\thiba\onedrive - groupe inseec (poce)\tibo ece\projet informatique c++\projetv9_2\projetv9\projetv4.2\projetv4.2\projetv3 avec sauvegarde\special.cpp
+	"Special.h"
+
+1607001796 source:c:\users\thiba\onedrive - groupe inseec (poce)\tibo ece\projet informatique c++\projetv10\projetv9\projetv4.2\projetv4.2\projetv3 avec sauvegarde\affichage.cpp
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	<time.h>
+	<iostream>
+	"Affichage.h"
+	"Hero.h"
+	"Carte.h"
+
+1606950926 c:\users\thiba\onedrive - groupe inseec (poce)\tibo ece\projet informatique c++\projetv10\projetv9\projetv4.2\projetv4.2\projetv3 avec sauvegarde\affichage.h
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	<time.h>
+	<iostream>
+	"Carte.h"
+	"Hero.h"
+
+1606950926 c:\users\thiba\onedrive - groupe inseec (poce)\tibo ece\projet informatique c++\projetv10\projetv9\projetv4.2\projetv4.2\projetv3 avec sauvegarde\carte.h
+	<string>
+	<iostream>
+
+1607001509 c:\users\thiba\onedrive - groupe inseec (poce)\tibo ece\projet informatique c++\projetv10\projetv9\projetv4.2\projetv4.2\projetv3 avec sauvegarde\hero.h
+	"Deck.h"
+	"Carte.h"
+	"Creature.h"
+	<string>
+	<vector>
+	<stack>
+	<queue>
+	<iostream>
+
+1606950926 c:\users\thiba\onedrive - groupe inseec (poce)\tibo ece\projet informatique c++\projetv10\projetv9\projetv4.2\projetv4.2\projetv3 avec sauvegarde\deck.h
+
+1606958256 c:\users\thiba\onedrive - groupe inseec (poce)\tibo ece\projet informatique c++\projetv10\projetv9\projetv4.2\projetv4.2\projetv3 avec sauvegarde\creature.h
+	"Carte.h"
+
+1606950926 source:c:\users\thiba\onedrive - groupe inseec (poce)\tibo ece\projet informatique c++\projetv10\projetv9\projetv4.2\projetv4.2\projetv3 avec sauvegarde\carte.cpp
+	<iostream>
+	<string>
+	"Carte.h"
+
+1606958256 source:c:\users\thiba\onedrive - groupe inseec (poce)\tibo ece\projet informatique c++\projetv10\projetv9\projetv4.2\projetv4.2\projetv3 avec sauvegarde\creature.cpp
+	"Creature.h"
+	"Carte.h"
+
+1606950926 source:c:\users\thiba\onedrive - groupe inseec (poce)\tibo ece\projet informatique c++\projetv10\projetv9\projetv4.2\projetv4.2\projetv3 avec sauvegarde\energie.cpp
+	"Energie.h"
+
+1606950926 c:\users\thiba\onedrive - groupe inseec (poce)\tibo ece\projet informatique c++\projetv10\projetv9\projetv4.2\projetv4.2\projetv3 avec sauvegarde\energie.h
+	"Carte.h"
+	<vector>
+
+1607001509 source:c:\users\thiba\onedrive - groupe inseec (poce)\tibo ece\projet informatique c++\projetv10\projetv9\projetv4.2\projetv4.2\projetv3 avec sauvegarde\hero.cpp
+	"Hero.h"
+	"Special.h"
+	"Creature.h"
+	"Energie.h"
+	"Affichage.h"
+	<iostream>
+	<time.h>
+	<unistd.h>
+	<random>
+	<algorithm>
+	<iterator>
+
+1606950926 c:\users\thiba\onedrive - groupe inseec (poce)\tibo ece\projet informatique c++\projetv10\projetv9\projetv4.2\projetv4.2\projetv3 avec sauvegarde\special.h
+	"Carte.h"
+
+1607001912 source:c:\users\thiba\onedrive - groupe inseec (poce)\tibo ece\projet informatique c++\projetv10\projetv9\projetv4.2\projetv4.2\projetv3 avec sauvegarde\main.cpp
+	<iostream>
+	<vector>
+	<time.h>
+	"Carte.h"
+	"Creature.h"
+	"Deck.h"
+	"Energie.h"
+	"Hero.h"
+	"Special.h"
+	"Affichage.h"
+	<fstream>
+
+1606950926 source:c:\users\thiba\onedrive - groupe inseec (poce)\tibo ece\projet informatique c++\projetv10\projetv9\projetv4.2\projetv4.2\projetv3 avec sauvegarde\special.cpp
+	"Special.h"
+
+1607003265 source:c:\users\thiba\downloads\projetv10_2\projetv10\projetv9\projetv4.2\projetv4.2\projetv3 avec sauvegarde\affichage.cpp
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	<time.h>
+	<iostream>
+	"Affichage.h"
+	"Hero.h"
+	"Carte.h"
+
+1607002686 c:\users\thiba\downloads\projetv10_2\projetv10\projetv9\projetv4.2\projetv4.2\projetv3 avec sauvegarde\affichage.h
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	<time.h>
+	<iostream>
+	"Carte.h"
+	"Hero.h"
+
+1607002686 c:\users\thiba\downloads\projetv10_2\projetv10\projetv9\projetv4.2\projetv4.2\projetv3 avec sauvegarde\carte.h
+	<string>
+	<iostream>
+
+1607002686 c:\users\thiba\downloads\projetv10_2\projetv10\projetv9\projetv4.2\projetv4.2\projetv3 avec sauvegarde\hero.h
+	"Deck.h"
+	"Carte.h"
+	"Creature.h"
+	<string>
+	<vector>
+	<stack>
+	<queue>
+	<iostream>
+
+1607002686 c:\users\thiba\downloads\projetv10_2\projetv10\projetv9\projetv4.2\projetv4.2\projetv3 avec sauvegarde\deck.h
+
+1607002686 c:\users\thiba\downloads\projetv10_2\projetv10\projetv9\projetv4.2\projetv4.2\projetv3 avec sauvegarde\creature.h
+	"Carte.h"
+
+1607002686 source:c:\users\thiba\downloads\projetv10_2\projetv10\projetv9\projetv4.2\projetv4.2\projetv3 avec sauvegarde\carte.cpp
+	<iostream>
+	<string>
+	"Carte.h"
+
+1607002686 source:c:\users\thiba\downloads\projetv10_2\projetv10\projetv9\projetv4.2\projetv4.2\projetv3 avec sauvegarde\creature.cpp
+	"Creature.h"
+	"Carte.h"
+
+1607002686 source:c:\users\thiba\downloads\projetv10_2\projetv10\projetv9\projetv4.2\projetv4.2\projetv3 avec sauvegarde\energie.cpp
+	"Energie.h"
+
+1607002686 c:\users\thiba\downloads\projetv10_2\projetv10\projetv9\projetv4.2\projetv4.2\projetv3 avec sauvegarde\energie.h
+	"Carte.h"
+	<vector>
+
+1607002686 source:c:\users\thiba\downloads\projetv10_2\projetv10\projetv9\projetv4.2\projetv4.2\projetv3 avec sauvegarde\hero.cpp
+	"Hero.h"
+	"Special.h"
+	"Creature.h"
+	"Energie.h"
+	"Affichage.h"
+	<iostream>
+	<time.h>
+	<unistd.h>
+	<random>
+	<algorithm>
+	<iterator>
+
+1607002686 c:\users\thiba\downloads\projetv10_2\projetv10\projetv9\projetv4.2\projetv4.2\projetv3 avec sauvegarde\special.h
+	"Carte.h"
+
+1607004299 source:c:\users\thiba\downloads\projetv10_2\projetv10\projetv9\projetv4.2\projetv4.2\projetv3 avec sauvegarde\main.cpp
+	<iostream>
+	<vector>
+	<time.h>
+	"Carte.h"
+	"Creature.h"
+	"Deck.h"
+	"Energie.h"
+	"Hero.h"
+	"Special.h"
+	"Affichage.h"
+	<fstream>
+
+1607002686 source:c:\users\thiba\downloads\projetv10_2\projetv10\projetv9\projetv4.2\projetv4.2\projetv3 avec sauvegarde\special.cpp
+	"Special.h"
+
+1607003266 source:d:\users\louis\desktop\info ing2\v11\projetv10_2\projetv10\projetv9\projetv4.2\projetv4.2\projetv3 avec sauvegarde\affichage.cpp
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	<time.h>
+	<iostream>
+	"Affichage.h"
+	"Hero.h"
+	"Carte.h"
+
+1607002688 d:\users\louis\desktop\info ing2\v11\projetv10_2\projetv10\projetv9\projetv4.2\projetv4.2\projetv3 avec sauvegarde\affichage.h
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	<time.h>
+	<iostream>
+	"Carte.h"
+	"Hero.h"
+
+1607002688 d:\users\louis\desktop\info ing2\v11\projetv10_2\projetv10\projetv9\projetv4.2\projetv4.2\projetv3 avec sauvegarde\carte.h
+	<string>
+	<iostream>
+
+1607005746 d:\users\louis\desktop\info ing2\v11\projetv10_2\projetv10\projetv9\projetv4.2\projetv4.2\projetv3 avec sauvegarde\hero.h
+	"Deck.h"
+	"Carte.h"
+	"Creature.h"
+	<string>
+	<vector>
+	<stack>
+	<queue>
+	<iostream>
+
+1607002688 d:\users\louis\desktop\info ing2\v11\projetv10_2\projetv10\projetv9\projetv4.2\projetv4.2\projetv3 avec sauvegarde\deck.h
+
+1607002688 d:\users\louis\desktop\info ing2\v11\projetv10_2\projetv10\projetv9\projetv4.2\projetv4.2\projetv3 avec sauvegarde\creature.h
+	"Carte.h"
+
+1607002688 source:d:\users\louis\desktop\info ing2\v11\projetv10_2\projetv10\projetv9\projetv4.2\projetv4.2\projetv3 avec sauvegarde\carte.cpp
+	<iostream>
+	<string>
+	"Carte.h"
+
+1607002688 source:d:\users\louis\desktop\info ing2\v11\projetv10_2\projetv10\projetv9\projetv4.2\projetv4.2\projetv3 avec sauvegarde\creature.cpp
+	"Creature.h"
+	"Carte.h"
+
+1607002688 source:d:\users\louis\desktop\info ing2\v11\projetv10_2\projetv10\projetv9\projetv4.2\projetv4.2\projetv3 avec sauvegarde\energie.cpp
+	"Energie.h"
+
+1607002688 d:\users\louis\desktop\info ing2\v11\projetv10_2\projetv10\projetv9\projetv4.2\projetv4.2\projetv3 avec sauvegarde\energie.h
+	"Carte.h"
+	<vector>
+
+1607002688 source:d:\users\louis\desktop\info ing2\v11\projetv10_2\projetv10\projetv9\projetv4.2\projetv4.2\projetv3 avec sauvegarde\hero.cpp
+	"Hero.h"
+	"Special.h"
+	"Creature.h"
+	"Energie.h"
+	"Affichage.h"
+	<iostream>
+	<time.h>
+	<unistd.h>
+	<random>
+	<algorithm>
+	<iterator>
+
+1607002688 d:\users\louis\desktop\info ing2\v11\projetv10_2\projetv10\projetv9\projetv4.2\projetv4.2\projetv3 avec sauvegarde\special.h
+	"Carte.h"
+
+1607004300 source:d:\users\louis\desktop\info ing2\v11\projetv10_2\projetv10\projetv9\projetv4.2\projetv4.2\projetv3 avec sauvegarde\main.cpp
+	<iostream>
+	<vector>
+	<time.h>
+	"Carte.h"
+	"Creature.h"
+	"Deck.h"
+	"Energie.h"
+	"Hero.h"
+	"Special.h"
+	"Affichage.h"
+	<fstream>
+
+1607002688 source:d:\users\louis\desktop\info ing2\v11\projetv10_2\projetv10\projetv9\projetv4.2\projetv4.2\projetv3 avec sauvegarde\special.cpp
+	"Special.h"
+
+1607003266 source:d:\users\louis\desktop\info ing2\v11\projetv11.1\projetv10\projetv9\projetv4.2\projetv4.2\projetv3 avec sauvegarde\affichage.cpp
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	<time.h>
+	<iostream>
+	"Affichage.h"
+	"Hero.h"
+	"Carte.h"
+
+1607002688 d:\users\louis\desktop\info ing2\v11\projetv11.1\projetv10\projetv9\projetv4.2\projetv4.2\projetv3 avec sauvegarde\affichage.h
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	<time.h>
+	<iostream>
+	"Carte.h"
+	"Hero.h"
+
+1607002688 d:\users\louis\desktop\info ing2\v11\projetv11.1\projetv10\projetv9\projetv4.2\projetv4.2\projetv3 avec sauvegarde\carte.h
+	<string>
+	<iostream>
+
+1607005746 d:\users\louis\desktop\info ing2\v11\projetv11.1\projetv10\projetv9\projetv4.2\projetv4.2\projetv3 avec sauvegarde\hero.h
+	"Deck.h"
+	"Carte.h"
+	"Creature.h"
+	<string>
+	<vector>
+	<stack>
+	<queue>
+	<iostream>
+
+1607002688 d:\users\louis\desktop\info ing2\v11\projetv11.1\projetv10\projetv9\projetv4.2\projetv4.2\projetv3 avec sauvegarde\deck.h
+
+1607002688 d:\users\louis\desktop\info ing2\v11\projetv11.1\projetv10\projetv9\projetv4.2\projetv4.2\projetv3 avec sauvegarde\creature.h
+	"Carte.h"
+
+1607002688 source:d:\users\louis\desktop\info ing2\v11\projetv11.1\projetv10\projetv9\projetv4.2\projetv4.2\projetv3 avec sauvegarde\carte.cpp
+	<iostream>
+	<string>
+	"Carte.h"
+
+1607002688 source:d:\users\louis\desktop\info ing2\v11\projetv11.1\projetv10\projetv9\projetv4.2\projetv4.2\projetv3 avec sauvegarde\creature.cpp
+	"Creature.h"
+	"Carte.h"
+
+1607002688 source:d:\users\louis\desktop\info ing2\v11\projetv11.1\projetv10\projetv9\projetv4.2\projetv4.2\projetv3 avec sauvegarde\energie.cpp
+	"Energie.h"
+
+1607002688 d:\users\louis\desktop\info ing2\v11\projetv11.1\projetv10\projetv9\projetv4.2\projetv4.2\projetv3 avec sauvegarde\energie.h
+	"Carte.h"
+	<vector>
+
+1607004300 source:d:\users\louis\desktop\info ing2\v11\projetv11.1\projetv10\projetv9\projetv4.2\projetv4.2\projetv3 avec sauvegarde\main.cpp
+	<iostream>
+	<vector>
+	<time.h>
+	"Carte.h"
+	"Creature.h"
+	"Deck.h"
+	"Energie.h"
+	"Hero.h"
+	"Special.h"
+	"Affichage.h"
+	<fstream>
+
+1607002688 d:\users\louis\desktop\info ing2\v11\projetv11.1\projetv10\projetv9\projetv4.2\projetv4.2\projetv3 avec sauvegarde\special.h
+	"Carte.h"
+
+1607002688 source:d:\users\louis\desktop\info ing2\v11\projetv11.1\projetv10\projetv9\projetv4.2\projetv4.2\projetv3 avec sauvegarde\special.cpp
+	"Special.h"
+
+1607009354 source:d:\users\louis\desktop\info ing2\v11\projetv11.1\projetv10\projetv9\projetv4.2\projetv4.2\projetv3 avec sauvegarde\hero.cpp
+	"Hero.h"
+	"Special.h"
+	"Creature.h"
+	"Energie.h"
+	"Affichage.h"
+	<iostream>
+	<time.h>
+	<unistd.h>
+	<random>
+	<algorithm>
+	<iterator>
+
+1607015679 source:c:\users\33783\downloads\projetv11.2\projetv11.2\projetv10\projetv9\projetv4.2\projetv4.2\projetv3 avec sauvegarde\carte.cpp
+	<iostream>
+	<string>
+	"Carte.h"
+
+1607024228 c:\users\33783\downloads\projetv11.2\projetv11.2\projetv10\projetv9\projetv4.2\projetv4.2\projetv3 avec sauvegarde\carte.h
+	<string>
+	<iostream>
+
+1607015679 source:c:\users\33783\downloads\projetv11.2\projetv11.2\projetv10\projetv9\projetv4.2\projetv4.2\projetv3 avec sauvegarde\creature.cpp
+	"Creature.h"
+	"Carte.h"
+
+1607015679 c:\users\33783\downloads\projetv11.2\projetv11.2\projetv10\projetv9\projetv4.2\projetv4.2\projetv3 avec sauvegarde\creature.h
+	"Carte.h"
+
+1607015679 source:c:\users\33783\downloads\projetv11.2\projetv11.2\projetv10\projetv9\projetv4.2\projetv4.2\projetv3 avec sauvegarde\energie.cpp
+	"Energie.h"
+
+1607015680 c:\users\33783\downloads\projetv11.2\projetv11.2\projetv10\projetv9\projetv4.2\projetv4.2\projetv3 avec sauvegarde\energie.h
+	"Carte.h"
+	<vector>
+
+1607024391 source:c:\users\33783\downloads\projetv11.2\projetv11.2\projetv10\projetv9\projetv4.2\projetv4.2\projetv3 avec sauvegarde\hero.cpp
+	"Hero.h"
+	"Special.h"
+	"Creature.h"
+	"Energie.h"
+	"Affichage.h"
+	<iostream>
+	<time.h>
+	<unistd.h>
+	<random>
+	<algorithm>
+	<iterator>
+
+1607019586 c:\users\33783\downloads\projetv11.2\projetv11.2\projetv10\projetv9\projetv4.2\projetv4.2\projetv3 avec sauvegarde\hero.h
+	"Deck.h"
+	"Carte.h"
+	"Creature.h"
+	<string>
+	<vector>
+	<stack>
+	<queue>
+	<iostream>
+
+1607015679 c:\users\33783\downloads\projetv11.2\projetv11.2\projetv10\projetv9\projetv4.2\projetv4.2\projetv3 avec sauvegarde\deck.h
+
+1607023390 c:\users\33783\downloads\projetv11.2\projetv11.2\projetv10\projetv9\projetv4.2\projetv4.2\projetv3 avec sauvegarde\special.h
+	"Carte.h"
+
+1607015679 c:\users\33783\downloads\projetv11.2\projetv11.2\projetv10\projetv9\projetv4.2\projetv4.2\projetv3 avec sauvegarde\affichage.h
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	<time.h>
+	<iostream>
+	"Carte.h"
+	"Hero.h"
+
+1607017736 source:c:\users\33783\downloads\projetv11.2\projetv11.2\projetv10\projetv9\projetv4.2\projetv4.2\projetv3 avec sauvegarde\main.cpp
+	<iostream>
+	<vector>
+	<time.h>
+	"Carte.h"
+	"Creature.h"
+	"Deck.h"
+	"Energie.h"
+	"Hero.h"
+	"Special.h"
+	"Affichage.h"
+	<fstream>
+
+1607023384 source:c:\users\33783\downloads\projetv11.2\projetv11.2\projetv10\projetv9\projetv4.2\projetv4.2\projetv3 avec sauvegarde\special.cpp
+	"Special.h"
+
+1607024210 source:c:\users\33783\downloads\projetv11.2\projetv11.2\projetv10\projetv9\projetv4.2\projetv4.2\projetv3 avec sauvegarde\affichage.cpp
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	<time.h>
+	<iostream>
+	"Affichage.h"
+	"Hero.h"
+	"Carte.h"
+
+1607037552 source:c:\users\thiba\downloads\projetv11.2_2\projetv11.2\projetv11.2\projetv10\projetv9\projetv4.2\projetv4.2\projetv3 avec sauvegarde\affichage.cpp
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	<time.h>
+	<iostream>
+	"Affichage.h"
+	"Hero.h"
+	"Carte.h"
+
+1607024463 c:\users\thiba\downloads\projetv11.2_2\projetv11.2\projetv11.2\projetv10\projetv9\projetv4.2\projetv4.2\projetv3 avec sauvegarde\affichage.h
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	<time.h>
+	<iostream>
+	"Carte.h"
+	"Hero.h"
+
+1607025078 c:\users\thiba\downloads\projetv11.2_2\projetv11.2\projetv11.2\projetv10\projetv9\projetv4.2\projetv4.2\projetv3 avec sauvegarde\carte.h
+	<string>
+	<iostream>
+
+1607036558 c:\users\thiba\downloads\projetv11.2_2\projetv11.2\projetv11.2\projetv10\projetv9\projetv4.2\projetv4.2\projetv3 avec sauvegarde\hero.h
+	"Deck.h"
+	"Carte.h"
+	"Creature.h"
+	<string>
+	<vector>
+	<stack>
+	<queue>
+	<iostream>
+
+1607024463 c:\users\thiba\downloads\projetv11.2_2\projetv11.2\projetv11.2\projetv10\projetv9\projetv4.2\projetv4.2\projetv3 avec sauvegarde\deck.h
+
+1607024463 c:\users\thiba\downloads\projetv11.2_2\projetv11.2\projetv11.2\projetv10\projetv9\projetv4.2\projetv4.2\projetv3 avec sauvegarde\creature.h
+	"Carte.h"
+
+1607024463 source:c:\users\thiba\downloads\projetv11.2_2\projetv11.2\projetv11.2\projetv10\projetv9\projetv4.2\projetv4.2\projetv3 avec sauvegarde\carte.cpp
+	<iostream>
+	<string>
+	"Carte.h"
+
+1607024463 source:c:\users\thiba\downloads\projetv11.2_2\projetv11.2\projetv11.2\projetv10\projetv9\projetv4.2\projetv4.2\projetv3 avec sauvegarde\creature.cpp
+	"Creature.h"
+	"Carte.h"
+
+1607024463 source:c:\users\thiba\downloads\projetv11.2_2\projetv11.2\projetv11.2\projetv10\projetv9\projetv4.2\projetv4.2\projetv3 avec sauvegarde\energie.cpp
+	"Energie.h"
+
+1607024463 c:\users\thiba\downloads\projetv11.2_2\projetv11.2\projetv11.2\projetv10\projetv9\projetv4.2\projetv4.2\projetv3 avec sauvegarde\energie.h
+	"Carte.h"
+	<vector>
+
+1607037185 source:c:\users\thiba\downloads\projetv11.2_2\projetv11.2\projetv11.2\projetv10\projetv9\projetv4.2\projetv4.2\projetv3 avec sauvegarde\hero.cpp
+	"Hero.h"
+	"Special.h"
+	"Creature.h"
+	"Energie.h"
+	"Affichage.h"
+	<iostream>
+	<time.h>
+	<unistd.h>
+	<random>
+	<algorithm>
+	<iterator>
+
+1607025078 c:\users\thiba\downloads\projetv11.2_2\projetv11.2\projetv11.2\projetv10\projetv9\projetv4.2\projetv4.2\projetv3 avec sauvegarde\special.h
+	"Carte.h"
+
+1607027764 source:c:\users\thiba\downloads\projetv11.2_2\projetv11.2\projetv11.2\projetv10\projetv9\projetv4.2\projetv4.2\projetv3 avec sauvegarde\main.cpp
+	<iostream>
+	<vector>
+	<time.h>
+	"Carte.h"
+	"Creature.h"
+	"Deck.h"
+	"Energie.h"
+	"Hero.h"
+	"Special.h"
+	"Affichage.h"
+	<fstream>
+
+1607024463 source:c:\users\thiba\downloads\projetv11.2_2\projetv11.2\projetv11.2\projetv10\projetv9\projetv4.2\projetv4.2\projetv3 avec sauvegarde\special.cpp
+	"Special.h"
+
+1607078509 source:c:\users\romai\downloads\projetv11.2_2_3\projetv11.2_2\projetv11.2\projetv11.2\projetv10\projetv9\projetv4.2\projetv4.2\projetv3 avec sauvegarde\affichage.cpp
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	<time.h>
+	<iostream>
+	"Affichage.h"
+	"Hero.h"
+	"Carte.h"
+
+1607078509 c:\users\romai\downloads\projetv11.2_2_3\projetv11.2_2\projetv11.2\projetv11.2\projetv10\projetv9\projetv4.2\projetv4.2\projetv3 avec sauvegarde\affichage.h
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	<time.h>
+	<iostream>
+	"Carte.h"
+	"Hero.h"
+
+1607078510 c:\users\romai\downloads\projetv11.2_2_3\projetv11.2_2\projetv11.2\projetv11.2\projetv10\projetv9\projetv4.2\projetv4.2\projetv3 avec sauvegarde\carte.h
+	<string>
+	<iostream>
+
+1607078510 c:\users\romai\downloads\projetv11.2_2_3\projetv11.2_2\projetv11.2\projetv11.2\projetv10\projetv9\projetv4.2\projetv4.2\projetv3 avec sauvegarde\hero.h
+	"Deck.h"
+	"Carte.h"
+	"Creature.h"
+	<string>
+	<vector>
+	<stack>
+	<queue>
+	<iostream>
+
+1607078510 c:\users\romai\downloads\projetv11.2_2_3\projetv11.2_2\projetv11.2\projetv11.2\projetv10\projetv9\projetv4.2\projetv4.2\projetv3 avec sauvegarde\deck.h
+
+1607078510 c:\users\romai\downloads\projetv11.2_2_3\projetv11.2_2\projetv11.2\projetv11.2\projetv10\projetv9\projetv4.2\projetv4.2\projetv3 avec sauvegarde\creature.h
+	"Carte.h"
+
+1607078509 source:c:\users\romai\downloads\projetv11.2_2_3\projetv11.2_2\projetv11.2\projetv11.2\projetv10\projetv9\projetv4.2\projetv4.2\projetv3 avec sauvegarde\carte.cpp
+	<iostream>
+	<string>
+	"Carte.h"
+
+1607078510 source:c:\users\romai\downloads\projetv11.2_2_3\projetv11.2_2\projetv11.2\projetv11.2\projetv10\projetv9\projetv4.2\projetv4.2\projetv3 avec sauvegarde\creature.cpp
+	"Creature.h"
+	"Carte.h"
+
+1607078510 source:c:\users\romai\downloads\projetv11.2_2_3\projetv11.2_2\projetv11.2\projetv11.2\projetv10\projetv9\projetv4.2\projetv4.2\projetv3 avec sauvegarde\energie.cpp
+	"Energie.h"
+
+1607078510 c:\users\romai\downloads\projetv11.2_2_3\projetv11.2_2\projetv11.2\projetv11.2\projetv10\projetv9\projetv4.2\projetv4.2\projetv3 avec sauvegarde\energie.h
+	"Carte.h"
+	<vector>
+
+1607084231 source:c:\users\romai\downloads\projetv11.2_2_3\projetv11.2_2\projetv11.2\projetv11.2\projetv10\projetv9\projetv4.2\projetv4.2\projetv3 avec sauvegarde\hero.cpp
+	"Hero.h"
+	"Special.h"
+	"Creature.h"
+	"Energie.h"
+	"Affichage.h"
+	<iostream>
+	<time.h>
+	<unistd.h>
+	<random>
+	<algorithm>
+	<iterator>
+
+1607078510 c:\users\romai\downloads\projetv11.2_2_3\projetv11.2_2\projetv11.2\projetv11.2\projetv10\projetv9\projetv4.2\projetv4.2\projetv3 avec sauvegarde\special.h
+	"Carte.h"
+
+1607078510 source:c:\users\romai\downloads\projetv11.2_2_3\projetv11.2_2\projetv11.2\projetv11.2\projetv10\projetv9\projetv4.2\projetv4.2\projetv3 avec sauvegarde\main.cpp
+	<iostream>
+	<vector>
+	<time.h>
+	"Carte.h"
+	"Creature.h"
+	"Deck.h"
+	"Energie.h"
+	"Hero.h"
+	"Special.h"
+	"Affichage.h"
+	<fstream>
+
+1607078510 source:c:\users\romai\downloads\projetv11.2_2_3\projetv11.2_2\projetv11.2\projetv11.2\projetv10\projetv9\projetv4.2\projetv4.2\projetv3 avec sauvegarde\special.cpp
+	"Special.h"
+
+1607136722 source:c:\users\thiba\downloads\projetv11.2_2_3_2\projetv11.2_2_3\projetv11.2_2\projetv11.2\projetv11.2\projetv10\projetv9\projetv4.2\projetv4.2\projetv3 avec sauvegarde\affichage.cpp
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	<time.h>
+	<iostream>
+	"Affichage.h"
+	"Hero.h"
+	"Carte.h"
+
+1607099095 c:\users\thiba\downloads\projetv11.2_2_3_2\projetv11.2_2_3\projetv11.2_2\projetv11.2\projetv11.2\projetv10\projetv9\projetv4.2\projetv4.2\projetv3 avec sauvegarde\affichage.h
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	<time.h>
+	<iostream>
+	"Carte.h"
+	"Hero.h"
+
+1607099095 c:\users\thiba\downloads\projetv11.2_2_3_2\projetv11.2_2_3\projetv11.2_2\projetv11.2\projetv11.2\projetv10\projetv9\projetv4.2\projetv4.2\projetv3 avec sauvegarde\carte.h
+	<string>
+	<iostream>
+
+1607134477 c:\users\thiba\downloads\projetv11.2_2_3_2\projetv11.2_2_3\projetv11.2_2\projetv11.2\projetv11.2\projetv10\projetv9\projetv4.2\projetv4.2\projetv3 avec sauvegarde\hero.h
+	"Deck.h"
+	"Carte.h"
+	"Creature.h"
+	<string>
+	<vector>
+	<stack>
+	<queue>
+	<iostream>
+
+1607099095 c:\users\thiba\downloads\projetv11.2_2_3_2\projetv11.2_2_3\projetv11.2_2\projetv11.2\projetv11.2\projetv10\projetv9\projetv4.2\projetv4.2\projetv3 avec sauvegarde\deck.h
+
+1607099095 c:\users\thiba\downloads\projetv11.2_2_3_2\projetv11.2_2_3\projetv11.2_2\projetv11.2\projetv11.2\projetv10\projetv9\projetv4.2\projetv4.2\projetv3 avec sauvegarde\creature.h
+	"Carte.h"
+
+1607099095 source:c:\users\thiba\downloads\projetv11.2_2_3_2\projetv11.2_2_3\projetv11.2_2\projetv11.2\projetv11.2\projetv10\projetv9\projetv4.2\projetv4.2\projetv3 avec sauvegarde\carte.cpp
+	<iostream>
+	<string>
+	"Carte.h"
+
+1607099095 source:c:\users\thiba\downloads\projetv11.2_2_3_2\projetv11.2_2_3\projetv11.2_2\projetv11.2\projetv11.2\projetv10\projetv9\projetv4.2\projetv4.2\projetv3 avec sauvegarde\creature.cpp
+	"Creature.h"
+	"Carte.h"
+
+1607099095 source:c:\users\thiba\downloads\projetv11.2_2_3_2\projetv11.2_2_3\projetv11.2_2\projetv11.2\projetv11.2\projetv10\projetv9\projetv4.2\projetv4.2\projetv3 avec sauvegarde\energie.cpp
+	"Energie.h"
+
+1607099095 c:\users\thiba\downloads\projetv11.2_2_3_2\projetv11.2_2_3\projetv11.2_2\projetv11.2\projetv11.2\projetv10\projetv9\projetv4.2\projetv4.2\projetv3 avec sauvegarde\energie.h
+	"Carte.h"
+	<vector>
+
+1607136567 source:c:\users\thiba\downloads\projetv11.2_2_3_2\projetv11.2_2_3\projetv11.2_2\projetv11.2\projetv11.2\projetv10\projetv9\projetv4.2\projetv4.2\projetv3 avec sauvegarde\hero.cpp
+	"Hero.h"
+	"Special.h"
+	"Creature.h"
+	"Energie.h"
+	"Affichage.h"
+	<iostream>
+	<time.h>
+	<unistd.h>
+	<random>
+	<algorithm>
+	<iterator>
+
+1607099095 c:\users\thiba\downloads\projetv11.2_2_3_2\projetv11.2_2_3\projetv11.2_2\projetv11.2\projetv11.2\projetv10\projetv9\projetv4.2\projetv4.2\projetv3 avec sauvegarde\special.h
+	"Carte.h"
+
+1607136896 source:c:\users\thiba\downloads\projetv11.2_2_3_2\projetv11.2_2_3\projetv11.2_2\projetv11.2\projetv11.2\projetv10\projetv9\projetv4.2\projetv4.2\projetv3 avec sauvegarde\main.cpp
+	<iostream>
+	<vector>
+	<time.h>
+	"Carte.h"
+	"Creature.h"
+	"Deck.h"
+	"Energie.h"
+	"Hero.h"
+	"Special.h"
+	"Affichage.h"
+	<fstream>
+
+1607099095 source:c:\users\thiba\downloads\projetv11.2_2_3_2\projetv11.2_2_3\projetv11.2_2\projetv11.2\projetv11.2\projetv10\projetv9\projetv4.2\projetv4.2\projetv3 avec sauvegarde\special.cpp
+	"Special.h"
+
+1607208709 source:c:\users\thiba\onedrive - groupe inseec (poce)\tibo ece\projet informatique c++\projetfinal\affichage.cpp
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	<time.h>
+	<iostream>
+	"Affichage.h"
+	"Hero.h"
+	"Carte.h"
+
+1607181590 c:\users\thiba\onedrive - groupe inseec (poce)\tibo ece\projet informatique c++\projetfinal\affichage.h
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	<time.h>
+	<iostream>
+	"Carte.h"
+	"Hero.h"
+
+1607183639 c:\users\thiba\onedrive - groupe inseec (poce)\tibo ece\projet informatique c++\projetfinal\carte.h
+	<string>
+	<iostream>
+
+1607183027 c:\users\thiba\onedrive - groupe inseec (poce)\tibo ece\projet informatique c++\projetfinal\hero.h
+	"Deck.h"
+	"Carte.h"
+	"Creature.h"
+	<string>
+	<vector>
+	<stack>
+	<queue>
+	<iostream>
+
+1607099095 c:\users\thiba\onedrive - groupe inseec (poce)\tibo ece\projet informatique c++\projetfinal\deck.h
+
+1607181539 c:\users\thiba\onedrive - groupe inseec (poce)\tibo ece\projet informatique c++\projetfinal\creature.h
+	"Carte.h"
+
+1607181649 source:c:\users\thiba\onedrive - groupe inseec (poce)\tibo ece\projet informatique c++\projetfinal\carte.cpp
+	<iostream>
+	<string>
+	"Carte.h"
+
+1607180838 source:c:\users\thiba\onedrive - groupe inseec (poce)\tibo ece\projet informatique c++\projetfinal\creature.cpp
+	"Creature.h"
+	"Carte.h"
+
+1607181649 source:c:\users\thiba\onedrive - groupe inseec (poce)\tibo ece\projet informatique c++\projetfinal\energie.cpp
+	"Energie.h"
+
+1607181525 c:\users\thiba\onedrive - groupe inseec (poce)\tibo ece\projet informatique c++\projetfinal\energie.h
+	"Carte.h"
+	<vector>
+
+1607183588 source:c:\users\thiba\onedrive - groupe inseec (poce)\tibo ece\projet informatique c++\projetfinal\hero.cpp
+	"Hero.h"
+	"Special.h"
+	"Creature.h"
+	"Energie.h"
+	"Affichage.h"
+	<iostream>
+	<time.h>
+	<unistd.h>
+	<random>
+	<algorithm>
+	<iterator>
+
+1607181506 c:\users\thiba\onedrive - groupe inseec (poce)\tibo ece\projet informatique c++\projetfinal\special.h
+	"Carte.h"
+
+1607180998 source:c:\users\thiba\onedrive - groupe inseec (poce)\tibo ece\projet informatique c++\projetfinal\main.cpp
+	<iostream>
+	<vector>
+	<time.h>
+	"Carte.h"
+	"Creature.h"
+	"Deck.h"
+	"Energie.h"
+	"Hero.h"
+	"Special.h"
+	"Affichage.h"
+	<fstream>
+
+1607180998 source:c:\users\thiba\onedrive - groupe inseec (poce)\tibo ece\projet informatique c++\projetfinal\special.cpp
+	"Special.h"
+
+1607230310 source:c:\users\gameu\onedrive - groupe inseec (poce)\tibo ece\ing2\projet informatique c++\rossin-schiavio-weibel\projetfinal\affichage.cpp
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	<time.h>
+	<iostream>
+	"Affichage.h"
+	"Hero.h"
+	"Carte.h"
+
+1607203192 c:\users\gameu\onedrive - groupe inseec (poce)\tibo ece\ing2\projet informatique c++\rossin-schiavio-weibel\projetfinal\affichage.h
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	<time.h>
+	<iostream>
+	"Carte.h"
+	"Hero.h"
+
+1607205240 c:\users\gameu\onedrive - groupe inseec (poce)\tibo ece\ing2\projet informatique c++\rossin-schiavio-weibel\projetfinal\carte.h
+	<string>
+	<iostream>
+
+1607204628 c:\users\gameu\onedrive - groupe inseec (poce)\tibo ece\ing2\projet informatique c++\rossin-schiavio-weibel\projetfinal\hero.h
+	"Deck.h"
+	"Carte.h"
+	"Creature.h"
+	<string>
+	<vector>
+	<stack>
+	<queue>
+	<iostream>
+
+1607120696 c:\users\gameu\onedrive - groupe inseec (poce)\tibo ece\ing2\projet informatique c++\rossin-schiavio-weibel\projetfinal\deck.h
+
+1607203140 c:\users\gameu\onedrive - groupe inseec (poce)\tibo ece\ing2\projet informatique c++\rossin-schiavio-weibel\projetfinal\creature.h
+	"Carte.h"
+
+1607203250 source:c:\users\gameu\onedrive - groupe inseec (poce)\tibo ece\ing2\projet informatique c++\rossin-schiavio-weibel\projetfinal\carte.cpp
+	<iostream>
+	<string>
+	"Carte.h"
+
+1607202440 source:c:\users\gameu\onedrive - groupe inseec (poce)\tibo ece\ing2\projet informatique c++\rossin-schiavio-weibel\projetfinal\creature.cpp
+	"Creature.h"
+	"Carte.h"
+
+1607203250 source:c:\users\gameu\onedrive - groupe inseec (poce)\tibo ece\ing2\projet informatique c++\rossin-schiavio-weibel\projetfinal\energie.cpp
+	"Energie.h"
+
+1607203126 c:\users\gameu\onedrive - groupe inseec (poce)\tibo ece\ing2\projet informatique c++\rossin-schiavio-weibel\projetfinal\energie.h
+	"Carte.h"
+	<vector>
+
+1607205190 source:c:\users\gameu\onedrive - groupe inseec (poce)\tibo ece\ing2\projet informatique c++\rossin-schiavio-weibel\projetfinal\hero.cpp
+	"Hero.h"
+	"Special.h"
+	"Creature.h"
+	"Energie.h"
+	"Affichage.h"
+	<iostream>
+	<time.h>
+	<unistd.h>
+	<random>
+	<algorithm>
+	<iterator>
+
+1607203108 c:\users\gameu\onedrive - groupe inseec (poce)\tibo ece\ing2\projet informatique c++\rossin-schiavio-weibel\projetfinal\special.h
+	"Carte.h"
+
+1607202600 source:c:\users\gameu\onedrive - groupe inseec (poce)\tibo ece\ing2\projet informatique c++\rossin-schiavio-weibel\projetfinal\main.cpp
+	<iostream>
+	<vector>
+	<time.h>
+	"Carte.h"
+	"Creature.h"
+	"Deck.h"
+	"Energie.h"
+	"Hero.h"
+	"Special.h"
+	"Affichage.h"
+	<fstream>
+
+1607202600 source:c:\users\gameu\onedrive - groupe inseec (poce)\tibo ece\ing2\projet informatique c++\rossin-schiavio-weibel\projetfinal\special.cpp
+	"Special.h"
+
+1607226710 source:c:\users\gameu\onedrive - groupe inseec (poce)\tibo ece\ing2\projet informatique c++\rossin_schiavio_weibel\projetfinal\affichage.cpp
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	<time.h>
+	<iostream>
+	"Affichage.h"
+	"Hero.h"
+	"Carte.h"
+
+1607199592 c:\users\gameu\onedrive - groupe inseec (poce)\tibo ece\ing2\projet informatique c++\rossin_schiavio_weibel\projetfinal\affichage.h
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	<time.h>
+	<iostream>
+	"Carte.h"
+	"Hero.h"
+
+1607201640 c:\users\gameu\onedrive - groupe inseec (poce)\tibo ece\ing2\projet informatique c++\rossin_schiavio_weibel\projetfinal\carte.h
+	<string>
+	<iostream>
+
+1607201028 c:\users\gameu\onedrive - groupe inseec (poce)\tibo ece\ing2\projet informatique c++\rossin_schiavio_weibel\projetfinal\hero.h
+	"Deck.h"
+	"Carte.h"
+	"Creature.h"
+	<string>
+	<vector>
+	<stack>
+	<queue>
+	<iostream>
+
+1607117096 c:\users\gameu\onedrive - groupe inseec (poce)\tibo ece\ing2\projet informatique c++\rossin_schiavio_weibel\projetfinal\deck.h
+
+1607199540 c:\users\gameu\onedrive - groupe inseec (poce)\tibo ece\ing2\projet informatique c++\rossin_schiavio_weibel\projetfinal\creature.h
+	"Carte.h"
+
+1607199650 source:c:\users\gameu\onedrive - groupe inseec (poce)\tibo ece\ing2\projet informatique c++\rossin_schiavio_weibel\projetfinal\carte.cpp
+	<iostream>
+	<string>
+	"Carte.h"
+
+1607198840 source:c:\users\gameu\onedrive - groupe inseec (poce)\tibo ece\ing2\projet informatique c++\rossin_schiavio_weibel\projetfinal\creature.cpp
+	"Creature.h"
+	"Carte.h"
+
+1607199650 source:c:\users\gameu\onedrive - groupe inseec (poce)\tibo ece\ing2\projet informatique c++\rossin_schiavio_weibel\projetfinal\energie.cpp
+	"Energie.h"
+
+1607199526 c:\users\gameu\onedrive - groupe inseec (poce)\tibo ece\ing2\projet informatique c++\rossin_schiavio_weibel\projetfinal\energie.h
+	"Carte.h"
+	<vector>
+
+1607201590 source:c:\users\gameu\onedrive - groupe inseec (poce)\tibo ece\ing2\projet informatique c++\rossin_schiavio_weibel\projetfinal\hero.cpp
+	"Hero.h"
+	"Special.h"
+	"Creature.h"
+	"Energie.h"
+	"Affichage.h"
+	<iostream>
+	<time.h>
+	<unistd.h>
+	<random>
+	<algorithm>
+	<iterator>
+
+1607199508 c:\users\gameu\onedrive - groupe inseec (poce)\tibo ece\ing2\projet informatique c++\rossin_schiavio_weibel\projetfinal\special.h
+	"Carte.h"
+
+1607199000 source:c:\users\gameu\onedrive - groupe inseec (poce)\tibo ece\ing2\projet informatique c++\rossin_schiavio_weibel\projetfinal\main.cpp
+	<iostream>
+	<vector>
+	<time.h>
+	"Carte.h"
+	"Creature.h"
+	"Deck.h"
+	"Energie.h"
+	"Hero.h"
+	"Special.h"
+	"Affichage.h"
+	<fstream>
+
+1607199000 source:c:\users\gameu\onedrive - groupe inseec (poce)\tibo ece\ing2\projet informatique c++\rossin_schiavio_weibel\projetfinal\special.cpp
+	"Special.h"
+
+1607226710 source:d:\tibo ece\ing2\projet informatique c++\rossin_schiavio_weibel\projetfinal\affichage.cpp
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	<time.h>
+	<iostream>
+	"Affichage.h"
+	"Hero.h"
+	"Carte.h"
+
+1607199592 d:\tibo ece\ing2\projet informatique c++\rossin_schiavio_weibel\projetfinal\affichage.h
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	<time.h>
+	<iostream>
+	"Carte.h"
+	"Hero.h"
+
+1607201640 d:\tibo ece\ing2\projet informatique c++\rossin_schiavio_weibel\projetfinal\carte.h
+	<string>
+	<iostream>
+
+1607201028 d:\tibo ece\ing2\projet informatique c++\rossin_schiavio_weibel\projetfinal\hero.h
+	"Deck.h"
+	"Carte.h"
+	"Creature.h"
+	<string>
+	<vector>
+	<stack>
+	<queue>
+	<iostream>
+
+1607117096 d:\tibo ece\ing2\projet informatique c++\rossin_schiavio_weibel\projetfinal\deck.h
+
+1607199540 d:\tibo ece\ing2\projet informatique c++\rossin_schiavio_weibel\projetfinal\creature.h
+	"Carte.h"
+
+1607199650 source:d:\tibo ece\ing2\projet informatique c++\rossin_schiavio_weibel\projetfinal\carte.cpp
+	<iostream>
+	<string>
+	"Carte.h"
+
+1607198840 source:d:\tibo ece\ing2\projet informatique c++\rossin_schiavio_weibel\projetfinal\creature.cpp
+	"Creature.h"
+	"Carte.h"
+
+1607199650 source:d:\tibo ece\ing2\projet informatique c++\rossin_schiavio_weibel\projetfinal\energie.cpp
+	"Energie.h"
+
+1607199526 d:\tibo ece\ing2\projet informatique c++\rossin_schiavio_weibel\projetfinal\energie.h
+	"Carte.h"
+	<vector>
+
+1607201590 source:d:\tibo ece\ing2\projet informatique c++\rossin_schiavio_weibel\projetfinal\hero.cpp
+	"Hero.h"
+	"Special.h"
+	"Creature.h"
+	"Energie.h"
+	"Affichage.h"
+	<iostream>
+	<time.h>
+	<unistd.h>
+	<random>
+	<algorithm>
+	<iterator>
+
+1607199508 d:\tibo ece\ing2\projet informatique c++\rossin_schiavio_weibel\projetfinal\special.h
+	"Carte.h"
+
+1607199000 source:d:\tibo ece\ing2\projet informatique c++\rossin_schiavio_weibel\projetfinal\main.cpp
+	<iostream>
+	<vector>
+	<time.h>
+	"Carte.h"
+	"Creature.h"
+	"Deck.h"
+	"Energie.h"
+	"Hero.h"
+	"Special.h"
+	"Affichage.h"
+	<fstream>
+
+1607199000 source:d:\tibo ece\ing2\projet informatique c++\rossin_schiavio_weibel\projetfinal\special.cpp
+	"Special.h"
+
