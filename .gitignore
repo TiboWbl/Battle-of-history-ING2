@@ -1,0 +1,4 @@
+# Fichiers generes par Code::Blocks / la compilation
+bin/
+obj/
+*.depend

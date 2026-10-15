@@ -225,7 +225,7 @@ int Reglement ()
         Color(11,0);
         std :: cout << "\t TAVERNE   : Lieu ou vous pouvez acheter des cartes (SPECIALES, CREATURES, ENERGIES)." << std :: endl << std :: endl;
         std :: cout << "\t CASERNE   : Lieu ou vous pouvez consulter votre collection." << std :: endl << std :: endl;
-        std :: cout << "\t ECUS      : Monnaie du jeu. Chaque nouveau joueur demarre le jeu avec une somme de 10 ecus." << std :: endl << std :: endl;
+        std :: cout << "\t ECUS      : Monnaie du jeu. Chaque nouveau joueur demarre le jeu avec une somme de 100 ecus." << std :: endl << std :: endl;
         std :: cout << "\t             En cas de victoire : +10 ecus." << std :: endl << std :: endl;
         std :: cout << "\t             En cas de defaite : +5 ecus." << std :: endl << std :: endl;
         std :: cout << "\t CIMETIERE : Lieu ou vont les cartes mortes au combats." << std :: endl << std :: endl;

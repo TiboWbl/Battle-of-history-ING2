@@ -1,6 +1,5 @@
 #ifndef HERO_H
 #define HERO_H
-#include "Deck.h"
 #include "Carte.h"
 #include "Creature.h"
 #include <string>

@@ -3,7 +3,6 @@
 #include <time.h>
 #include "Carte.h"
 #include "Creature.h"
-#include "Deck.h"
 #include "Energie.h"
 #include "Hero.h"
 #include "Special.h"
